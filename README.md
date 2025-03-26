@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides a comprehensive analysis of vehicle sales across multiple categories such as **2-Wheeler**, **3-Wheeler**, **4-Wheeler**, and **Buses**. The dashboard highlights sales trends, category contributions, and key performance indicators (KPIs) to help users gain meaningful insights.
 
----
+
 
 ## 📊 Dashboard Overview
 ### Key Features:
@@ -13,7 +13,7 @@ This Power BI dashboard provides a comprehensive analysis of vehicle sales acros
 - **Dynamic Filters:** Users can filter data by year for focused analysis.  
 - **Interactive Insights:** Clickable buttons provide seamless navigation.  
 
----
+
 
 ## 🖥️ Dashboard Preview
 ![Vehicle Sales Dashboard](https://github.com/IshwariK117/Electric_vehicle_sale_Dashboard/blob/main/electric_vehicle_dashboard.png)
