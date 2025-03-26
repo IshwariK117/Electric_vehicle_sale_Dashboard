@@ -20,15 +20,6 @@ This Power BI dashboard provides a comprehensive analysis of vehicle sales acros
 
 
 
-## 📈 Future Improvements
-- Add a **Top Performing Year** card.  
-- Include a **Monthly Sales Trend** chart for detailed insights.  
-- Implement **Sales Growth %** metrics for better performance tracking.  
-- Improve color consistency across visuals for clarity.  
-
-
-
-## 🚀 Getting Started
 ### Requirements
 - Power BI Desktop
 - Dataset (Ensure the file structure matches the one used in this project)
